@@ -35,7 +35,7 @@ SLM.ipynb
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/disease-symptom-streamlit-app.git
+    https://github.com/isurulkh/Small-Language-Model.git
     cd disease-symptom-streamlit-app
     ```
 
