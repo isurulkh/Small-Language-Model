@@ -8,7 +8,7 @@ SmallDisMed is a fine-tuned GPT-2 model pre-trained on a medical dataset for sym
 
 
 
-##Features:
+## Features:
 
 - Fine-tuned GPT-2 model: Based on the distilgpt2 pre-trained model, optimized for medical language generation.
 - Flexible data handling: Accepts customized datasets of disease-symptom pairs for further fine-tuning.
