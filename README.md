@@ -55,6 +55,7 @@ Run the Streamlit app using the following command:
 
 ```bash
 streamlit run app.py
+```
 
 
 ## Additional Notes:
