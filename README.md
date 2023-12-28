@@ -36,7 +36,7 @@ SLM.ipynb
 
     ```bash
     https://github.com/isurulkh/Small-Language-Model.git
-    cd disease-symptom-streamlit-app
+    cd streamlit-app
     ```
 
 2. **Install Dependencies:**
